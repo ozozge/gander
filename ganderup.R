@@ -1,5 +1,6 @@
 #install.packages('ellmer', dependencies=TRUE, repos='http://cran.rstudio.com/')
 #install.packages('gander', dependencies=TRUE, repos='http://cran.rstudio.com/')
+#options(repos = c(CRAN = "http://cran.rstudio.com/"))
 
 library(gander)
 library(ellmer)
